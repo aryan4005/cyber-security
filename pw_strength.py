@@ -253,12 +253,12 @@ if __name__ == "__main__":
         examples = [args.password]
     else:
         examples = [
-            "Aryan@3188",
-            "Aryan@4005",
-            "Aryan@2611",
-            "aryan4005",
-            "aryan3188",
-            "aryan2611"
+            "Dhara@1234",
+            "Dhara@4569",
+            "Dhara@2987",
+            "dhara4563",
+            "dhara1459",
+            "dhara8563"
            
         ]
 
